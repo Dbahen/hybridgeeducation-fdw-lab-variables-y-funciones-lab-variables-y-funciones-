@@ -13,5 +13,18 @@
     },
     "dependencies": {
         "mocha": "^10.6.0"
-    }
+    },
+    "directories": {
+        "test": "tests"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Dbahen/hybridgeeducation-fdw-lab-variables-y-funciones-lab-variables-y-funciones-.git"
+    },
+    "keywords": [],
+    "type": "commonjs",
+    "bugs": {
+        "url": "https://github.com/Dbahen/hybridgeeducation-fdw-lab-variables-y-funciones-lab-variables-y-funciones-/issues"
+    },
+    "homepage": "https://github.com/Dbahen/hybridgeeducation-fdw-lab-variables-y-funciones-lab-variables-y-funciones-#readme"
 }

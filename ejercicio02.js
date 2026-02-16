@@ -1,6 +1,9 @@
 // Ejercicio 2: Uso de Constantes en Funciones
 // Declara una función llamada "obtenerPI" que retorne el valor 3.1416
-
+function obternerPi() {
+    let pi = 3.1416;
+    return pi;
+}
 //define tu función aquí
 
 
